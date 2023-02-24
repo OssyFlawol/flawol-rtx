@@ -27,7 +27,7 @@ Verify the integrity of your Portal RTX files and Steam will detect the changed 
 ---------------------------
 __CAN I USE THESE ASSETS IN MY OWN PROJECTS?__
 
-You can use anything I've created so long as you provide credit and it isn't used in a commercial product. However, I do not know NVIDIA's stance on their asswets, so I would personally shy away from it.
+You can use anything I've created so long as you provide credit and it isn't used in a commercial product. However, I do not know NVIDIA's stance on their assets, so I would personally shy away from it.
 
 ---------------------------
 __IT SUCKS!__
