@@ -4,7 +4,7 @@ Flawol-RTX is an experimental Visual Tweaks mod for Portal RTX that aims to rest
 
 __SCREENSHOTS__
 ---------------------------
-
+**These screenshots are using Enhanced Lighting turned OFF alongside the experimental Lighting Changes.**
 ![20230224185511_1](https://user-images.githubusercontent.com/47882150/221127385-1ec10b94-e494-4d30-8dc9-8c397fbd5b1f.jpg)
 ![20230224185634_1](https://user-images.githubusercontent.com/47882150/221127399-aa4287c9-60af-4f32-ac9d-8b3c5e59efed.jpg)
 ![20230224185705_1](https://user-images.githubusercontent.com/47882150/221127411-1e9b580d-f2eb-4a24-b850-a29e05e246b2.jpg)
