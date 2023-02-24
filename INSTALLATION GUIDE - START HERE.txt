@@ -1,0 +1,53 @@
+-  INSTALLING FLAWOL-RTX  -
+===========================
+
+Welcome to the guide of installing Flawol-RTX, I won't waste your time, here's how to install it into your Portal RTX copy:
+
+STEP 1
+- Locate your Portal RTX copy, this should be in:
+Steam/steamapps/common/PortalRTX
+
+STEP 2
+- Open the 'lss' folder in the 'PortalRTX' folder, then open 'gameReadyAssets', this is where RTX Remix stores the assets for Portal RTX.
+
+STEP 3
+- Now open a second window for Flawol-RTX's folders, to understand where to replace certain things, here's what to do:
+
+===================
+
+REPLACING TEXTURES
+- Open 'SubUSDs', then 'textures'.
+- Copy the Flawol-RTX textures that you'd wish to install, then paste them into the 'textures' folder, perform the replacements.
+
+===================
+
+REPLACING MODELS
+- Open 'SubUSDs', all the model .USDs are located here.
+- Copy the Flawol-RTX models you'd wish to install, then paste them into the 'SubUSDs' folder, perform the replacements.
+
+===================
+
+REPLACING THE LIGHTS
+
+WARNING: THIS IS HEAVILY EXPERIMENTAL.
+DUE TO RTX REMIX'S CURRENT LIMITATIONS, INSTALLING THESE LIGHT CHANGES WILL CAUSE UNEXPECTED LOOKS IN CERTAIN AREAS.
+YOU HAVE BEEN WARNED.
+
+- Have the 'gameReadyAssets' folder open.
+- Copy everything in the Light Changes folder and paste.
+- Override, all the formatting in in the Light Changes folder should match exactly with 'gameReadyAssets'.
+
+===================
+
+TO UNINSTALL:
+
+STEP 1
+- Open Steam, and navigate to Portal RTX's app properties.
+
+STEP 2
+- Go to the 'LOCAL FILES' section, and press 'Verify Integrity of Game Files'.
+
+This will uninstall everything replaced in the Portal RTX files.
+
+==============
+- THANK YOU! -
